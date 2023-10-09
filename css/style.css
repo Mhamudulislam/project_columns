@@ -1,0 +1,13 @@
+.row
+{min-height: 300px; background-color: rgb(95, 119, 111);}
+.box1
+{min-height: 50px; background-color: #EAE0FE; border-right: 1px solid;}
+.bnone1
+{border-right: 0;}
+
+.cfour
+{height: 230px;}
+.csix
+{height: 230px;}
+.newr
+{padding: 0px 0px 195px 0px;}
